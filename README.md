@@ -1,6 +1,6 @@
-# SimpleFileCompressor
-=======================================  
-Implement File Compressor with Kotlin  
+# SimpleFileCompressor  
+
+Implement File Compressor using Huffman Code Algorithm
 
 Works perfectly with .txt files  
 
@@ -16,6 +16,8 @@ decompressed 1295B
 
 #TODO
 =======================================  
+Add more detailed explanation to README.md  
+
 Make it work for all types of files  
 
 ### -Guess why it doesn't work with other types-  
