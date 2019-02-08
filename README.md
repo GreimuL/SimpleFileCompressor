@@ -5,13 +5,13 @@ Implement File Compressor using Huffman Code Algorithm
 Works perfectly on all types of files  
 
 
-#before size (original) 367B  
+# before size (original) 367B  
 
 <img src="./Screenshots/before.png" width="30%" height="30%">  
-#compressed size (compressed) 25B  
+# compressed size (compressed) 25B  
 
 <img src="./Screenshots/comp.png" width="30%" height="30%">  
-#decompressed 367B  
+# decompressed 367B  
 
 <img src="./Screenshots/decomp.png" width="30%" height="30%">  
 
