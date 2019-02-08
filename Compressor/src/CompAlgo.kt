@@ -1,7 +1,7 @@
 import java.util.*
 
 class CompAlgo {
-    fun makeCode(indextable:Array<Pair<Long,Char>>):Node{
+    fun makeCode(indextable:Array<Pair<Long,Int>>):Node{
         lateinit var headNode:Node
         var pq:PriorityQueue<Pair<Long,Node>> = PriorityQueue(CustomComparator)
         indextable.forEach{pq.add(Pair(it.first,Node(null,null,it.second)))}
@@ -20,7 +20,7 @@ class CompAlgo {
         return headNode
     }
 
-    fun setCode(node:Node,s:String,codeMap:MutableMap<Char,String>){
+    fun setCode(node:Node,s:String,codeMap:MutableMap<Int,String>){
         if(node.left != null){
             setCode(node.left!!,s+'0',codeMap)
         }
@@ -31,8 +31,8 @@ class CompAlgo {
             codeMap[node.data!!] = s
         }
     }
-    fun getCodeMap(node:Node):MutableMap<Char,String>{
-        var codeMap:MutableMap<Char,String> = mutableMapOf<Char,String>()
+    fun getCodeMap(node:Node):MutableMap<Int,String>{
+        var codeMap:MutableMap<Int,String> = mutableMapOf<Int,String>()
         setCode(node,"",codeMap)
         return codeMap
     }

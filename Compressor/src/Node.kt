@@ -1,5 +1,5 @@
-class Node(le:Node?,ri:Node?,da:Char?) {
+class Node(le:Node?,ri:Node?,da:Int?) {
     var left:Node? = le
     var right:Node? = ri
-    var data:Char? = da
+    var data:Int? = da
 }
