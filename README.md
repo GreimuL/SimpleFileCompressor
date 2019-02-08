@@ -9,7 +9,7 @@ Works perfectly on all types of files
 
 <img src="./Screenshots/before.png" width="30%" height="30%">   
 
-## compressed size (compressed) 25B  
+## compressed size 25B  
 
 <img src="./Screenshots/comp.png" width="30%" height="30%">  
 
