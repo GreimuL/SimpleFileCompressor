@@ -20,7 +20,7 @@ Works perfectly on all types of files
 TODO
 =======================================  
 Add more detailed explanation to README.md  
-Make it available for actual use  
+Make GUI
 Clean up source codes  
 
 
