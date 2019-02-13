@@ -12,9 +12,9 @@ Can't compress big size file
 <img src="./Screenshots/01ver.png" width="30%" height="30%">   
 
 Implement GUI with TornadoFx   
-Refactoring source structure   
+Refactoring source codes structure   
 
-0.1 version has only compress function.   
+0.1 version only has compress function.   
 Compress original file to .grml file   
 
 
