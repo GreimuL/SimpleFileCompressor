@@ -9,7 +9,7 @@ Can't compress big size file
 
 # 0.1 ver.   
 
-<img src="./Screenshots/01ver.png" width="30%" height="30%">   
+<img src="./Screenshots/01ver.png" width="50%" height="50%">   
 
 Implement GUI with TornadoFx   
 Refactoring source codes structure   
