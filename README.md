@@ -4,6 +4,25 @@ Implement File Compressor using Huffman Code Algorithm
 
 Works perfectly on all types of files  
 
+# Issue   
+Can't compress big size file
+
+# 0.1 ver.   
+
+<img src="./Screenshots/01ver.png" width="30%" height="30%">   
+
+Implement GUI with TornadoFx   
+Refactoring source structure   
+
+0.1 version has only compress function.   
+Compress original file to .grml file   
+
+
+### TODO    
+Connect decompress function to GUI   
+Inject header information to .grml file    
+
+# Concept Version   
 
 ## before size (original) 367B  
 
@@ -17,7 +36,7 @@ Works perfectly on all types of files
 
 <img src="./Screenshots/decomp.png" width="30%" height="30%">  
 
-TODO
+### TODO
 =======================================  
 Add more detailed explanation to README.md  
 Make GUI  
