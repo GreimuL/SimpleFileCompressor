@@ -24,6 +24,9 @@ Inject header information to .grml file
 
 # Concept Version   
 
+Implement file compress function and file decompress function.   
+   
+
 ## before size (original) 367B  
 
 <img src="./Screenshots/before.png" width="30%" height="30%">   
