@@ -10,8 +10,8 @@ Can't compress big size file
 # 0.2 ver.   
 Inject header information to .grml file
 
-Because of this update, if the file size is small, it can become large size when compressed.   
-Increase in file size is inevitable due to header information.   
+Because of header information, certain files become larger when compressed.   
+This happens in files which have low compression rate.   
    
 ### TODO   
 Connect decompress function to GUI   

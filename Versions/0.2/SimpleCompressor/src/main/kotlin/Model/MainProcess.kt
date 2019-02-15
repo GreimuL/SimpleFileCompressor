@@ -46,16 +46,17 @@ class MainProcess (c:Controller){
         var finallen:Int = bittest.toByteArray().size+ headBytearr.size+headlen.size
         var finalArr:ByteArray = ByteArray(finallen)
         var piv:Int = 0
-        for(i in headlen){
-            finalArr[piv] = i
+
+        headlen.forEach{
+            finalArr[piv]= it
             piv++
         }
-        for(i in headBytearr){
-            finalArr[piv] = i
+        headBytearr.forEach{
+            finalArr[piv] = it
             piv++
         }
-        for(i in bittest.toByteArray()){
-            finalArr[piv] = i
+        bittest.toByteArray().forEach{
+            finalArr[piv] = it
             piv++
         }
 
