@@ -8,7 +8,9 @@ Works perfectly on all types of files
 Can't compress big size file   
    
 # 0.2 ver.   
-Inject header information to .grml file
+Inject header information to .grml file   
+<img src="./Screenshots/02ver.png" width="30%" height="30%">   <img src="./Screenshots/02verSmall.png" width="30%" height="30%">    
+
 
 Because of header information, certain files become larger when compressed.   
 This happens in files which have low compression rate.   
