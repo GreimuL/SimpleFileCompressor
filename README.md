@@ -3,12 +3,30 @@
 Implement File Compressor using Huffman Code Algorithm   
 Implement GUI using TornadoFx   
 
-Works perfectly on all types of files  
-
 
 # Issue   
 Can't compress big size file   
    
+# Instruction   
+
+## Main Screen   
+<img src="./Screenshots/instruction/1.png" width="30%" height="30%">   
+   
+     
+## Compress   
+1. Choose your file to compress. (You can compress all type of files)   
+<img src="./Screenshots/instruction/2.png" width="30%" height="30%">   
+2. Click Compress! button.   
+<img src="./Screenshots/instruction/3.png" width="30%" height="30%">   
+3. Then .grml file(compressed file) created in same path with original file.   
+<img src="./Screenshots/instruction/4.png" width="30%" height="30%">   
+## Decompress   
+1. Choose .grml file and click Decompress! button. (Decompress is only available for .grml file)   
+<img src="./Screenshots/instruction/5.png" width="30%" height="30%">   
+   
+If there is same name, decompressed file name automatically changed.   
+<img src="./Screenshots/instruction/6.png" width="30%" height="30%">   
+     
 # 1.0 ver.   
 <img src="./Screenshots/10/comp.png" width="30%" height="30%">   <img src="./Screenshots/10/decomp.png" width="30%" height="30%">   <img src="./Screenshots/10/compare.png" width="30%" height="30%">   
 
