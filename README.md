@@ -7,9 +7,16 @@ Works perfectly on all types of files
 # Issue   
 Can't compress big size file   
    
+# 1.0 ver.   
+<img src="./Screenshots/10/comp.png" width="30%" height="30%">   <img src="./Screenshots/10/decomp.png" width="30%" height="30%">   <img src="./Screenshots/10/compare.png" width="30%" height="30%">   
+
+Connect decompress function to GUI.
+When decompressed, if there is same name file, decompressed file name automatically changed.   
+
+   
 # 0.2 ver.   
 Inject header information to .grml file   
-<img src="./Screenshots/02ver.png" width="30%" height="30%">   <img src="./Screenshots/02verSmall.png" width="30%" height="30%">    
+<img src="./Screenshots/02/02ver.png" width="30%" height="30%">   <img src="./Screenshots/02/02verSmall.png" width="30%" height="30%">    
 
 
 Because of header information, certain files become larger when compressed.   
@@ -21,7 +28,7 @@ Connect decompress function to GUI
 
 # 0.1 ver.   
 
-<img src="./Screenshots/01ver.png" width="50%" height="50%">   
+<img src="./Screenshots/01/01ver.png" width="50%" height="50%">   
 
 Implement GUI with TornadoFx   
 Refactoring source codes structure   
@@ -41,15 +48,15 @@ Implement file compress function and file decompress function.
 
 ## before size (original) 367B  
 
-<img src="./Screenshots/before.png" width="30%" height="30%">   
+<img src="./Screenshots/concenpt/before.png" width="30%" height="30%">   
 
 ## compressed size 25B  
 
-<img src="./Screenshots/comp.png" width="30%" height="30%">  
+<img src="./Screenshots/concenpt/comp.png" width="30%" height="30%">  
 
 ## decompressed 367B  
 
-<img src="./Screenshots/decomp.png" width="30%" height="30%">  
+<img src="./Screenshots/concenpt/decomp.png" width="30%" height="30%">  
 
 ### TODO
 =======================================  

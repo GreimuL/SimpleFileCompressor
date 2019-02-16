@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Title: SimpleCompressor
+Version: 0.0.1
+Main-Class: MainKt
+
