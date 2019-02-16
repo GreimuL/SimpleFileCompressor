@@ -56,7 +56,7 @@ Implement file compress function and file decompress function.
 
 ## decompressed 367B  
 
-<img src="./Screenshots/concnpt/decomp.png" width="30%" height="30%">  
+<img src="./Screenshots/concept/decomp.png" width="30%" height="30%">  
 
 ### TODO 
 Add more detailed explanation to README.md  
