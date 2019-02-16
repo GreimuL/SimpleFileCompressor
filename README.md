@@ -13,7 +13,7 @@ Can't compress big size file
 <img src="./Screenshots/instruction/1.png" width="30%" height="30%">   
          
 ### Compress    
-
+   
 1. Choose your file to compress. (You can compress all type of files)   
 <img src="./Screenshots/instruction/2.png" width="30%" height="30%">   
 2. Click Compress! button.   
@@ -22,7 +22,7 @@ Can't compress big size file
 <img src="./Screenshots/instruction/4.png" width="30%" height="30%">    
 
 ### Decompress    
-
+   
 1. Choose .grml file and click Decompress! button. (Decompress is only available for .grml file)   
 <img src="./Screenshots/instruction/5.png" width="30%" height="30%">   
    
