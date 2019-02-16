@@ -9,18 +9,19 @@ Can't compress big size file
    
 # Instruction   
 
-## Main Screen   
+### Main Screen   
 <img src="./Screenshots/instruction/1.png" width="30%" height="30%">   
-   
-     
-## Compress   
+         
+### Compress   
 1. Choose your file to compress. (You can compress all type of files)   
 <img src="./Screenshots/instruction/2.png" width="30%" height="30%">   
 2. Click Compress! button.   
 <img src="./Screenshots/instruction/3.png" width="30%" height="30%">   
-3. Then .grml file(compressed file) created in same path with original file.   
-<img src="./Screenshots/instruction/4.png" width="30%" height="30%">   
-## Decompress   
+3. Then .grml file(compressed file) created in same path with original file.    
+<img src="./Screenshots/instruction/4.png" width="30%" height="30%">    
+
+### Decompress    
+
 1. Choose .grml file and click Decompress! button. (Decompress is only available for .grml file)   
 <img src="./Screenshots/instruction/5.png" width="30%" height="30%">   
    
