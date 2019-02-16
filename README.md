@@ -12,7 +12,8 @@ Can't compress big size file
 ### Main Screen   
 <img src="./Screenshots/instruction/1.png" width="30%" height="30%">   
          
-### Compress   
+### Compress    
+
 1. Choose your file to compress. (You can compress all type of files)   
 <img src="./Screenshots/instruction/2.png" width="30%" height="30%">   
 2. Click Compress! button.   
