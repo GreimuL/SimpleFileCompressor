@@ -1,8 +1,10 @@
 # SimpleFileCompressor  
 
-Implement File Compressor using Huffman Code Algorithm
+Implement File Compressor using Huffman Code Algorithm   
+Implement GUI using TornadoFx   
 
 Works perfectly on all types of files  
+
 
 # Issue   
 Can't compress big size file   
