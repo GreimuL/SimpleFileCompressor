@@ -10,7 +10,7 @@ Can't compress big size file
 # 1.0 ver.   
 <img src="./Screenshots/10/comp.png" width="30%" height="30%">   <img src="./Screenshots/10/decomp.png" width="30%" height="30%">   <img src="./Screenshots/10/compare.png" width="30%" height="30%">   
 
-Connect decompress function to GUI.
+Connect decompress function to GUI.   
 When decompressed, if there is same name file, decompressed file name automatically changed.   
 
    
