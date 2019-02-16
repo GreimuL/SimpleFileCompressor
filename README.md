@@ -48,23 +48,20 @@ Implement file compress function and file decompress function.
 
 ## before size (original) 367B  
 
-<img src="./Screenshots/concenpt/before.png" width="30%" height="30%">   
+<img src="./Screenshots/concept/before.png" width="30%" height="30%">   
 
 ## compressed size 25B  
 
-<img src="./Screenshots/concenpt/comp.png" width="30%" height="30%">  
+<img src="./Screenshots/concept/comp.png" width="30%" height="30%">  
 
 ## decompressed 367B  
 
-<img src="./Screenshots/concenpt/decomp.png" width="30%" height="30%">  
+<img src="./Screenshots/concnpt/decomp.png" width="30%" height="30%">  
 
-### TODO
-=======================================  
+### TODO 
 Add more detailed explanation to README.md  
 Make GUI  
 Clean up source codes  
-
-
 
 ~~Make it work for all types of files~~  
 ->I solved this problem by changing structure from string-based to byte-based  
