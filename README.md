@@ -13,6 +13,9 @@ Can't compress big size file
 Connect decompress function to GUI.   
 When decompressed, if there is same name file, decompressed file name automatically changed.   
 
+### TODO
+Add more detailed explanation to README.md     
+
    
 # 0.2 ver.   
 Inject header information to .grml file   
